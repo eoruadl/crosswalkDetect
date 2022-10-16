@@ -19,7 +19,9 @@
 ### 학습모델
 - Pytorch 라이브러리의 Yolov5 모델 사용
 ![image](https://user-images.githubusercontent.com/108312160/196027430-8cd41ae8-084c-4116-9c1b-cb0cc68eff2c.png)
+
 - Yolo내 가중치별 학습모델 학습성과
+
 ![image](https://user-images.githubusercontent.com/108312160/196027455-06f52296-507f-46b3-9622-8c54e8d59f4e.png)
 
 ### 학습결과
