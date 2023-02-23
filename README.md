@@ -37,8 +37,3 @@
 - 출력된 값을 기준으로 이미지층에 boundbox 작성
 
 ![image](https://user-images.githubusercontent.com/108312160/196027533-308bf14b-72e9-4363-9988-4c2b8fb2fbf9.png)
-
-### 시연과정
-- 요지점에는 영상출력을 보여주는 영상링크나 gif 파일이 들어갈 예정
-### 개선지점 및 현황
-- 
